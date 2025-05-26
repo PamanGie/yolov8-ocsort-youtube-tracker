@@ -271,6 +271,6 @@ If you find this project helpful, please consider giving it a star!
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
+Your Name - [@unclegie](https://x.com/Uncle_Gie) - anggi.andriyadi@gmail.com
 
 Project Link: [https://github.com/yourusername/yolov8-ocsort-youtube-tracker](https://github.com/yourusername/yolov8-ocsort-youtube-tracker)
