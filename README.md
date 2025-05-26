@@ -48,11 +48,7 @@ Real-time object detection and tracking system that works with **YouTube live st
    pip install -r requirements.txt
    ```
 
-3. **Install OC-SORT** (if not included)
-   ```bash
-   git clone https://github.com/noahcao/OC_SORT.git
-   cp -r OC_SORT/ocsort ./
-   ```
+> **Note:** This project uses OC-SORT implementation from Ultralytics, so no additional OC-SORT installation is needed!
 
 ### Requirements.txt
 ```
@@ -63,8 +59,6 @@ torchvision>=0.10.0
 numpy>=1.21.0
 tqdm>=4.62.0
 yt-dlp>=2023.1.0
-pathlib
-argparse
 ```
 
 ## 🎮 Usage
@@ -255,9 +249,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) - Object detection
-- [OC-SORT](https://github.com/noahcao/OC_SORT) - Multi-object tracking  
+- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) - Object detection and OC-SORT tracking implementation
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - YouTube stream extraction
+- [OC-SORT Paper](https://arxiv.org/abs/2203.14360) - Original OC-SORT algorithm by Cao et al.
 
 ## 🤝 Contributing
 
