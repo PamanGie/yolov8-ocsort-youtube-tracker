@@ -6,6 +6,10 @@
 
 Real-time object detection and tracking system that works with **YouTube live streams** and local video files. Built with YOLOv8 for detection and OC-SORT for multi-object tracking.
 
+![Demo Screenshot](https://i.postimg.cc/fyJrcw2k/Screenshot-2025-05-26-105207.png)
+
+> 🎯 **Live tracking of vehicles from YouTube CCTV stream with real-time metrics overlay**
+
 ## 🌟 Features
 
 - 🎥 **YouTube Live Stream Support** - Process any YouTube live stream in real-time
