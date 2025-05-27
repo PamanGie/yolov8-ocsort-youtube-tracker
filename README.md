@@ -37,13 +37,7 @@ Real-time object detection and tracking system that works with **YouTube live st
 
 ## 🚀 Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/yolov8-ocsort-youtube-tracker.git
-   cd yolov8-ocsort-youtube-tracker
-   ```
-
-2. **Install dependencies**
+**Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
