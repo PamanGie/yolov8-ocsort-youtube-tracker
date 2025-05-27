@@ -59,6 +59,7 @@ torchvision>=0.10.0
 numpy>=1.21.0
 tqdm>=4.62.0
 yt-dlp>=2023.1.0
+ocsort
 ```
 
 ## 🎮 Usage
